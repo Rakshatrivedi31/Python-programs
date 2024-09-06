@@ -2,12 +2,10 @@
 <br>
 Here are some Python project's
 <br>
-1) Guessing Games 
+1) Calculator
 <br>
 2) Rock,Paper,Scissors
 <br>
-3) Calculator 
+3) Guessing game
 <br>
-4) weather program
-<br>
-5) Quize Program
+4) Quize Program
